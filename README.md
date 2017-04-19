@@ -1,3 +1,10 @@
+# MEAN API Angular App Revised
+
+The Heroku devcenter version of this app uses the mlab addon through Heroku. But, you can simply use a regular mlab sandbox without a CC.
+
+In addition, the angular-cli tool has been renamed as @angular/cli so the example archive that uses angular-cli will crash.
+
+
 # MeanContactlistAngular2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
